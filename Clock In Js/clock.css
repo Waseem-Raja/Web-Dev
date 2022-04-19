@@ -1,0 +1,14 @@
+#screen{
+    background-color: black;
+    margin-left: 35%;
+    width: 35%;
+    height: 61px;
+    margin-top: 18%;
+    color: #183d9a;
+    font-size: 56px;
+    text-align: center;
+    border-radius: 35px;
+}
+body{
+    background: url('imghh.jpg');
+}
