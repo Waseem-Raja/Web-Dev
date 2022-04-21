@@ -1,0 +1,64 @@
+#view{
+    margin-top: 200px;
+    margin-left: 25%;
+    text-align: center;
+    width: 60%;
+    height: 100px;
+    background-color:darkgoldenrod;
+    /* border-radius: 10px; */
+    font-size:larger;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url('bacgrndimg.jpg');
+    height: 100px;
+}
+/* .down
+{
+    margin-top: 40px;
+    margin-left: 25%;
+} */
+
+    #btn1 {
+        padding: 9px;
+        border-radius: 20px;
+        background-color: #dadada;
+        color: #222222;
+        cursor: pointer;
+        margin-left: 25%;
+        margin-top: 40px;
+    }
+    #btn2 {
+        padding: 9px;
+        border-radius: 20px;
+        background-color: #dadada;
+        color: #222222;
+        cursor: pointer;
+        /* margin-left: 25%; */
+        margin-top: 40px;
+    }
+    #btn3 {
+        padding: 9px;
+        border-radius: 20px;
+        background-color: #dadada;
+        color: #222222;
+        cursor: pointer;
+        /* margin-left: 25%; */
+        margin-top: 40px;
+    }
+
+
+#btn1:hover {
+    background-color: rgb(169, 177, 62);
+}
+#btn2:hover {
+    background-color: rgb(169, 177, 62);
+}
+#btn3:hover {
+    background-color: rgb(169, 177, 62);
+}
+/* #getvalue{
+    font-size: large;
+    text-align: center;
+} */
